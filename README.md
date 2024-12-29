@@ -1,15 +1,25 @@
 # NLP-AllergyAware
 
-Our project aims to develop a personalized
-recipe recommendation and generation system
-using natural language processing techniques,
-with a focus on accommodating food allergies
-and promoting healthy-alternatives. By leveraging user preferences, dietary restrictions, available ingredients and kitchenware, we seek to
-create an AI-powered assistant that can generate user-tailored recipes. We will be experimenting with different approaches to combine
-a large recipe dataset with user reviews to train
-a model capable of understanding culinary preferences and food allergens, then generating appropriate recipes. We expect this system to
-provide users with personalized, safe cooking
-suggestions, while enhancing their culinary experiences.
+This project presents a comprehensive exploration of recipe generation using various language models, focusing on developing robust
+evaluation metrics and allergen-aware recipe
+generation. We conducted extensive experiments with multiple model architectures, ranging from T5-small (Raffel et al., 2023) and
+SmolLM-135M (Allal et al., 2024) to Phi-2 (Research, 2023), implementing both traditional
+NLP metrics and custom domain-specific evaluation metrics. 
+
+Our novel evaluation framework incorporates recipe-specific metrics for
+assessing content quality and introduces an approach to allergen substitution. The results
+indicate that, while larger models generally
+perform better on standard metrics, the relationship between model size and recipe quality is more nuanced when considering domainspecific metrics. We find that SmolLM-360M
+and SmolLM-1.7B demonstrate comparable
+performance despite their size difference, while
+Phi-2 shows limitations in recipe generation
+despite its larger parameter count. 
+
+Our comprehensive evaluation framework and allergen substitution system provide valuable insights for
+future work in recipe generation and broader
+NLG tasks that require domain expertise and
+safety considerations.
 
 
-This repo only contains the project proposal. As we progress through this project I will update this repo with more documents/code. 
+
+
