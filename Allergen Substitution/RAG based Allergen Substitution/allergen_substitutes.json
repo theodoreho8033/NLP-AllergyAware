@@ -1,0 +1,62 @@
+{
+    "peanuts": {
+        "substitutes": ["sunflower seed butter", "almond butter", "soy butter", "pumpkin seed butter", "cashew butter"],
+        "notes": "Choose based on specific allergies. Similar protein content and texture."
+    },
+    "tree nuts": {
+        "substitutes": ["seeds", "roasted chickpeas", "coconut", "pretzels", "sunflower seeds"],
+        "notes": "Ensure substitute is safe for specific nut allergy."
+    },
+    "milk": {
+        "substitutes": ["oat milk", "almond milk", "soy milk", "coconut milk", "cashew milk"],
+        "notes": "Oat milk works best for baking, coconut milk for curry dishes."
+    },
+    "eggs": {
+        "substitutes": ["flax eggs", "chia eggs", "mashed banana", "applesauce", "commercial egg replacer"],
+        "notes": "For binding: 1 egg = 1 tbsp ground flax + 3 tbsp water"
+    },
+    "wheat": {
+        "substitutes": ["almond flour", "coconut flour", "oat flour", "rice flour", "quinoa flour"],
+        "notes": "May need to adjust liquid ratios when substituting."
+    },
+    "soy": {
+        "substitutes": ["coconut aminos", "chickpeas", "hemp seeds", "quinoa", "pea protein"],
+        "notes": "Coconut aminos work well for soy sauce replacement."
+    },
+    "fish": {
+        "substitutes": ["hearts of palm", "jackfruit", "mushrooms", "tempeh", "seitan"],
+        "notes": "Hearts of palm works great for fish-like texture."
+    },
+    "shellfish": {
+        "substitutes": ["king oyster mushrooms", "hearts of palm", "artichoke hearts", "jackfruit", "palm hearts"],
+        "notes": "King oyster mushrooms provide similar texture to scallops."
+    },
+    "sesame": {
+        "substitutes": ["poppy seeds", "hemp seeds", "flax seeds", "sunflower seeds", "pumpkin seeds"],
+        "notes": "Similar nutty flavor profile."
+    },
+    "dairy": {
+        "substitutes": ["coconut cream", "cashew cream", "nutritional yeast", "vegan cheese", "tahini"],
+        "notes": "Nutritional yeast adds cheesy flavor."
+    },
+    "butter": {
+        "substitutes": ["coconut oil", "olive oil", "avocado", "applesauce", "vegan butter"],
+        "notes": "Coconut oil works best for baking."
+    },
+    "cheese": {
+        "substitutes": ["nutritional yeast", "cashew cheese", "tofu", "vegan cheese", "hummus"],
+        "notes": "Nutritional yeast adds umami flavor."
+    },
+    "cream": {
+        "substitutes": ["coconut cream", "cashew cream", "silken tofu", "oat cream", "soy cream"],
+        "notes": "Coconut cream works best for curry and soups."
+    },
+    "yogurt": {
+        "substitutes": ["coconut yogurt", "almond yogurt", "soy yogurt", "cashew yogurt", "oat yogurt"],
+        "notes": "Similar texture and tanginess."
+    },
+    "gluten": {
+        "substitutes": ["xanthan gum", "guar gum", "psyllium husk", "chia seeds", "flax seeds"],
+        "notes": "Important for binding in gluten-free baking."
+    }
+} 

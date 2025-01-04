@@ -1,0 +1,16 @@
+pandas
+torch
+torchvision
+torchaudio
+transformers
+datasets
+scikit-learn
+nltk
+rouge_score
+tqdm
+tabulate
+matplotlib
+seaborn
+numpy
+kaggle
+matplotlib
